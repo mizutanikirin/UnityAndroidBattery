@@ -1,2 +1,2 @@
 # UnityAndroidBattery
-Unity – Android Native Code Pluginsでバッテリ情報取得
+Native Code PluginsでのAndroidのバッテリ情報を取得
